@@ -1,0 +1,33 @@
+_repo: Notes-of-a-Twenty-Five-Years-Service-in-the-Hudson-s-Bay-TerritoryVolume-I._15342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McLean, John
+    alias: M'Lean, John
+    birthdate: 1799
+    deathdate: 1890
+    gutenberg_agent_id: '6007'
+    url: http://www.gutenberg.org/2009/agents/6007
+description: ''
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcsh 'Labrador (N.L.) -- Description and travel'
+- !lcsh 'Indians of North America -- Languages'
+- !lcsh 'McLean, John, 1799-1890'
+- !lcsh 'Hudson''s Bay Company'
+- !lcc 'F1001'
+title: 'Notes of a Twenty-Five Years'' Service in the Hudson''s Bay Territory
+
+  Volume I.'
+url: http://www.gutenberg.org/ebooks/15342
